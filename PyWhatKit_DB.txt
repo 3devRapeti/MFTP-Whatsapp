@@ -1,0 +1,36 @@
+Date: 20/7/2022
+Time: 9:40
+Group ID: I13Tcm0lPeQFjsazCE4uDd
+Image: 93901
+Caption: This is an automated msg, please ignore!
+--------------------
+Date: 23/7/2022
+Time: 16:48
+Group ID: I13Tcm0lPeQFjsazCE4uDd
+Image: 164601.png
+Caption: This is an automated msg, please ignore!
+--------------------
+Date: 23/7/2022
+Time: 16:57
+Group ID: I13Tcm0lPeQFjsazCE4uDd
+Image: 165601.png
+Caption: This is an automated msg, please ignore!
+--------------------
+Date: 23/7/2022
+Time: 17:31
+Group ID: I13Tcm0lPeQFjsazCE4uDd
+Image: 172601.png
+Caption: New Companies' applications open in ERP!
+--------------------
+Date: 23/7/2022
+Time: 19:36
+Group ID: CfQv1lFwoOgKsaDQimMG2V
+Image: 193501.png
+Caption: New Companies' applications open in ERP!
+--------------------
+Date: 23/7/2022
+Time: 19:41
+Group ID: CfQv1lFwoOgKsaDQimMG2V
+Image: 193502.png
+Caption: New Companies' applications open in ERP!
+--------------------
